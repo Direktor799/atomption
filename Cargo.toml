@@ -1,0 +1,13 @@
+[package]
+name = "atomption"
+version = "0.1.0"
+edition = "2021"
+repository = "https://github.com/Direktor799/atomption.git"
+authors = ["Wenyu Su <priceclaptrap@hotmail.com>"]
+description = "A simple AtomicOption implementation with no safety issue."
+keywords = ["atomic-option"]
+license = "MIT"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
